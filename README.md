@@ -158,6 +158,6 @@ This project is for an academic project purpose in the Machine Learning course.
 
 ## ✍️ Author
 
-**MD Naimul Hussain Chy CSE-56**
-**Dewan Saadat Raja CSE-56**
-**Mahfujur Rahman Juha CSE-56**
+* **MD Naimul Hussain Chy** CSE-56 (MU)
+* **Dewan Saadat Raja** CSE-56 (MU)
+* **Mahfujur Rahman Juha** CSE-56 (MU)
