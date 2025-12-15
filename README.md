@@ -152,11 +152,12 @@ jupyter notebook Impact_of_Socioeconomic_and_Lifestyle_Factors_on_Resilience_Pre
 
 ## 📄 License
 
-This project is for academic and learning purposes.
+This project is for an academic project purpose in the Machine Learning course.
 
 ---
 
 ## ✍️ Author
 
-**Jimmy Paul**
-Machine Learning & Data Science Enthusiast
+**MD Naimul Hussain Chy CSE-56**
+**Dewan Saadat Raja CSE-56**
+**Mahfujur Rahman Juha CSE-56**
